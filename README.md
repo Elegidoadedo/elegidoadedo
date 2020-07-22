@@ -5,7 +5,7 @@
 <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/></p>
 
 ### About me 
-I'm Jose from Barcelona, a fullstack develoer and my current stack is React, Nodejs, Grapqhl and AWS
+I'm Jose, a fullstack developer based in Barcelona and my current stack is React, Nodejs, Grapqhl and AWS
 ![elegidoadedo's github](https://github-readme-stats.vercel.app/api?username=elegidoadedo&show_icons=true&hide_border=true)
 <!--
 **Elegidoadedo/elegidoadedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
