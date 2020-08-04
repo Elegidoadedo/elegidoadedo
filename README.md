@@ -1,8 +1,16 @@
 ### Hi there, I'm Jose! 👋
 ![cover](https://user-images.githubusercontent.com/26023012/87933356-62805b00-ca8d-11ea-80e6-f5010ae47fa4.gif)
 
-<p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/></p>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/26023012/89338957-a5e9e480-d69d-11ea-9b85-0b31e0e38580.png" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/26023012/89339126-ef3a3400-d69d-11ea-9e56-5f409ed92ef6.png" alt="css3" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/26023012/89339216-13961080-d69e-11ea-82e2-acdfb60e715d.png" alt="html5" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/26023012/89339259-26a8e080-d69e-11ea-9061-84f98bb7a49e.png" alt="javascript" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/26023012/89339345-4cce8080-d69e-11ea-83e0-c7d5ca921be7.png" alt="mysql" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/26023012/89339389-5d7ef680-d69e-11ea-8797-4a62c40c9ed4.png" alt="sass" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/26023012/89339447-7a1b2e80-d69e-11ea-8820-b14c24a6fd5b.png" alt="nodejs" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/26023012/89339539-a040ce80-d69e-11ea-9e4b-4e891e6de7b3.png" alt="amazonwebservices" width="40" height="40"/>
+</p>
 
 ### About me 
 I'm Jose, a fullstack developer based in Barcelona and my current stack is React, Nodejs, Grapqhl and AWS
