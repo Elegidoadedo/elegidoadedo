@@ -38,8 +38,7 @@ Here are some ideas to get you started:
  <a href="https://www.thingiverse.com/elegidoadedo/about"><img src="https://cdn.worldvectorlogo.com/logos/thingiverse-logo.svg"  fill="blue" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/elegidoadedo"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
-<p align = "center">
-<img height="200" src="https://github-profile-trophy.vercel.app/?username=elegidoadedo&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest"/>
+
 <!--    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elegidoadedo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a> -->
