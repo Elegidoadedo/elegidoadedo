@@ -1,3 +1,5 @@
+[![An image of @elegidoadedo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elegidoadedo)](https://holopin.io/@elegidoadedo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=elegidoadedo&rank=-C&theme=dracula)](https://github.com/elegidoadedo)
 ### Hi there, I'm Jose! 👋
 ![cover](https://user-images.githubusercontent.com/26023012/87933356-62805b00-ca8d-11ea-80e6-f5010ae47fa4.gif)
 
@@ -14,7 +16,7 @@
 
 ### About me 
 I'm Jose, a fullstack developer based in Barcelona and my current stack is React, Nodejs, Grapqhl and AWS
-![elegidoadedo's github](https://github-readme-stats.vercel.app/api?username=elegidoadedo&show_icons=true&hide_border=true)
+
 <!--
 **Elegidoadedo/elegidoadedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
