@@ -1,5 +1,5 @@
 [![An image of @elegidoadedo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elegidoadedo)](https://holopin.io/@elegidoadedo)
-[![trophy](https://github-profile-trophy.vercel.app/?username=elegidoadedo&rank=-C&theme=dracula)](https://github.com/elegidoadedo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elegidoadedo&rank=-C&theme=dracula)](https://github.com/Elegidoadedo)
 ### Hi there, I'm Jose! 👋
 ![cover](https://user-images.githubusercontent.com/26023012/87933356-62805b00-ca8d-11ea-80e6-f5010ae47fa4.gif)
 
